@@ -10,7 +10,7 @@
 | Проект по анализу результатов A/B-теста на сайте | *Исследование направлено* на оценку результатов A/B-теста на сайте | Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy, A/B-тестирование, проверка статистических гипотез, событийная аналитика | [ab][3] |
 | Исследование объявлений о продаже квартир | *Целью исследования* является определение ключевых факторов, влияющих на рынучную стоимость квартир | Python, Pandas, Numpy, Matplotlib, Seaborn, визуализация данных, исследовательский анализ данных, предобработка данных | [research_apartments][4] |
 
-[1]:https://github.com/SteveJ911/projects/tree/597b6940aa123ca1ad5317da8f6276899bb87067/ecom
+[1]:https://github.com/SteveJ911/projects/tree/1f8731cf08c8548291cb986e6bd8e5b29fbe1baa/ecom
 [2]:https://github.com/SteveJ911/projects/tree/597b6940aa123ca1ad5317da8f6276899bb87067/sql
 [3]:https://github.com/SteveJ911/projects/tree/ae49424d4de8a2ee99bb27e397936ef4683c37ed/ab_project
 [4]:https://github.com/SteveJ911/projects/tree/597b6940aa123ca1ad5317da8f6276899bb87067/research_apartments
