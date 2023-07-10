@@ -9,7 +9,6 @@
 | Исследование объявлений о продаже квартир | *Целью исследования* является определение ключевых факторов, влияющих на рынучную стоимость квартир | Python, Pandas, Numpy, Matplotlib, Seaborn, визуализация данных, исследовательский анализ данных, предобработка данных | [research_apartments][4] |
 
 [1]:https://github.com/SteveJ911/yandex_practicum_projects/tree/ecom_branch/ecom
-[2]:https://github.com/SteveJ911/projects/tree/597b6940aa123ca1ad5317da8f6276899bb87067/sql
-[3]:https://github.com/SteveJ911/projects/tree/08fa6dad4ce909fab8ead4b75d574104b68ffcf7/ab
-[4]:https://github.com/SteveJ911/projects/tree/b66a7f9e0810cd99c51dcbfc2077502ab0517520/research_apartments
-
+[2]:https://github.com/SteveJ911/yandex_practicum_projects/tree/main/sql
+[3]:https://github.com/SteveJ911/yandex_practicum_projects/tree/ab_branch/ab_project
+[4]:https://github.com/SteveJ911/yandex_practicum_projects/tree/res_apartments/research_apartments
